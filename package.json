@@ -1,0 +1,23 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etienne-ee/random.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etienne-ee/random/issues"
+  },
+  "homepage": "https://github.com/etienne-ee/random#readme",
+  "dependencies": {
+    "puppeteer-core": "^25.8.0"
+  }
+}
