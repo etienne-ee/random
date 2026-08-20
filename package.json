@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/etienne-ee/random#readme",
   "dependencies": {
+    "@puppeteer/browsers": "^3.2.1",
     "puppeteer-core": "^25.8.0"
   }
 }
